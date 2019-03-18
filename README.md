@@ -5,6 +5,12 @@ USAGE:
 
 `goksel_predict.py` can be used for classifying.
 
+Additionally, you can change number of class with small changings in:
+    1. `class_names = ['car', 'bicycle']`
+    2. `label function`
+    3. `predictimg function`
+
+
 Example Outputs:
 
 ![ex1](ss1.png)
